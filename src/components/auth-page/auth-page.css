@@ -1,0 +1,14 @@
+.login-form {
+    width: 340px;
+    margin: 50px auto;
+  	font-size: 15px;
+}
+
+.btn {        
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.form-control {
+    margin-bottom: 5px;
+}

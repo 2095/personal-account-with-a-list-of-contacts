@@ -1,0 +1,28 @@
+.contactPage {
+    width: 500px;
+    margin: 50px auto;
+  	font-size: 15px;
+}
+
+.contact-add-form{
+  width: 500px;
+  margin-top: 0.5rem
+}
+
+.contact-add-form input{
+  margin-right: 3px
+}
+
+ul{
+  list-style-type: none;
+  padding: 0;
+}
+
+.btn-sm{
+  margin-right: 2px;
+}
+
+.textField{
+  background-color: white;
+  border: 0ch;
+}
